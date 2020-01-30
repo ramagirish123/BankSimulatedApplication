@@ -1,0 +1,11 @@
+{
+  "Users": null,
+  "AcceptedCurrencies": null,
+  "BankName": "HyderabadBank",
+  "SameBankRTGSCharges": 0.0,
+  "SameBankIMPSCharges": 5.0,
+  "OtherBankRTGSCharges": 6.0,
+  "OtherBankIMPSCharges": 2.0,
+  "BankID": "Hyd20012020",
+  "CreatedOn": "2020-01-20T19:34:05.7603278+05:30"
+}
