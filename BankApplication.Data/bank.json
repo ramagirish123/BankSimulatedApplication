@@ -1,19 +1,6 @@
 {
   "Banks": [
     {
-      "ID": "Sta22012020",
-      "Name": "State Bank Of India",
-      "SameBankRTGSCharges": 5.0,
-      "SameBankIMPSCharges": 8.0,
-      "OtherBankRTGSCharges": 2.0,
-      "OtherBankIMPSCharges": 6.0,
-      "IsActive": true,
-      "CreatedOn": "2019-02-11T00:00:02",
-      "CreatedBy": "ram22012020",
-      "ModifeidOn": null,
-      "ModifiedBy": ""
-    },
-    {
       "ID": "and22012020",
       "Name": "Andhra Bank",
       "SameBankRTGSCharges": 5.0,
@@ -25,6 +12,19 @@
       "CreatedBy": "ram22012020",
       "ModifeidOn": null,
       "ModifiedBy": ""
+    },
+    {
+      "ID": "Sta22012020",
+      "Name": "State Bank Of India",
+      "SameBankRTGSCharges": 5.0,
+      "SameBankIMPSCharges": 8.0,
+      "OtherBankRTGSCharges": 10.0,
+      "OtherBankIMPSCharges": 6.0,
+      "IsActive": true,
+      "CreatedOn": "2019-02-11T00:00:02",
+      "CreatedBy": "ram22012020",
+      "ModifeidOn": "2020-01-30T14:59:56.1659194+05:30",
+      "ModifiedBy": "ram22012020"
     }
   ],
   "Users": [
@@ -109,22 +109,6 @@
       "BankID": "Sta22012020"
     },
     {
-      "ID": "4e3dfa8d-43c9-4110-af7f-f32f2c985c05",
-      "Password": "f9d27a9004f19bab7567e5d624d2cef6",
-      "Name": "vivek",
-      "IsActive": true,
-      "EMail": "vivek@gmail.com",
-      "MobileNumber": "9491577009",
-      "Type": 0,
-      "Status": 1,
-      "DeclineReason": null,
-      "CreatedOn": "2020-01-27T11:28:59.7941805+05:30",
-      "CreatedBy": null,
-      "ModifiedOn": null,
-      "ModifiedBy": null,
-      "BankID": "Sta22012020"
-    },
-    {
       "ID": "53e98536-7268-48d4-8a1b-0ade32d7b976",
       "Password": "f4548752fe48026bebac04ae4359f64a",
       "Name": "vamsi",
@@ -189,19 +173,19 @@
       "BankID": "Sta22012020"
     },
     {
-      "ID": "b6ec11b5-b18f-407d-96f3-67572b66d371",
+      "ID": "7ad0d74e-4d9a-4a17-a7cd-24cac588f1c4",
       "Password": "03bfe2d0f12f9a3e896cf3079c133ab8",
-      "Name": "harish",
+      "Name": "hari",
       "IsActive": true,
-      "EMail": "harish@gmail.com",
-      "MobileNumber": "984866223",
+      "EMail": "hari@gmail.com",
+      "MobileNumber": "789475856",
       "Type": 0,
-      "Status": 1,
+      "Status": 2,
       "DeclineReason": null,
-      "CreatedOn": "2020-01-27T19:37:37.7496475+05:30",
-      "CreatedBy": "ram22012020",
-      "ModifiedOn": "2020-01-27T20:39:01.4113721+05:30",
-      "ModifiedBy": "ram22012020",
+      "CreatedOn": "2020-01-30T10:34:52.138878+05:30",
+      "CreatedBy": null,
+      "ModifiedOn": "2020-01-30T14:57:16.2444708+05:30",
+      "ModifiedBy": "7ad0d74e-4d9a-4a17-a7cd-24cac588f1c4",
       "BankID": "Sta22012020"
     },
     {
@@ -216,21 +200,53 @@
       "DeclineReason": null,
       "CreatedOn": "2020-01-27T20:00:26.3544756+05:30",
       "CreatedBy": "ram22012020",
-      "ModifiedOn": "2020-01-28T16:48:37.1618129+05:30",
-      "ModifiedBy": "f0ffac21-a1df-4ea0-992a-ac9c0b687c7a",
+      "ModifiedOn": "2020-01-30T15:08:52.0357425+05:30",
+      "ModifiedBy": "ram22012020",
       "BankID": "Sta22012020"
     },
     {
-      "ID": "7ad0d74e-4d9a-4a17-a7cd-24cac588f1c4",
+      "ID": "b6ec11b5-b18f-407d-96f3-67572b66d371",
       "Password": "03bfe2d0f12f9a3e896cf3079c133ab8",
-      "Name": "hari",
+      "Name": "harish",
+      "IsActive": false,
+      "EMail": "harish@gmail.com",
+      "MobileNumber": "984866223",
+      "Type": 0,
+      "Status": 1,
+      "DeclineReason": null,
+      "CreatedOn": "2020-01-27T19:37:37.7496475+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": "2020-01-30T16:06:36.5198809+05:30",
+      "ModifiedBy": "ram22012020",
+      "BankID": "Sta22012020"
+    },
+    {
+      "ID": "7b027a99-d624-458f-9996-b40dea9f3597",
+      "Password": "399bc1476dfb94200490c7c79bb111fb",
+      "Name": "Jonny",
       "IsActive": true,
-      "EMail": "hari@gmail.com",
-      "MobileNumber": "789475856",
+      "EMail": "jonny@gmail.com",
+      "MobileNumber": "9848556585",
+      "Type": 0,
+      "Status": 1,
+      "DeclineReason": null,
+      "CreatedOn": "2020-01-30T16:07:24.1444777+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null,
+      "BankID": "Sta22012020"
+    },
+    {
+      "ID": "2370e0f5-d3de-49aa-bbb6-7e69d0ffbb90",
+      "Password": "027d583f764a2537a55b1554a4128acc",
+      "Name": "banu",
+      "IsActive": true,
+      "EMail": "banu@gmail.com",
+      "MobileNumber": "9848235625",
       "Type": 0,
       "Status": 0,
       "DeclineReason": null,
-      "CreatedOn": "2020-01-30T10:34:52.138878+05:30",
+      "CreatedOn": "2020-01-30T18:35:40.148784+05:30",
       "CreatedBy": null,
       "ModifiedOn": null,
       "ModifiedBy": null,
@@ -250,17 +266,6 @@
       "ModifiedBy": ""
     },
     {
-      "ID": "5a601b1d-cf32-4193-a2ba-30de57fd16ce",
-      "UserID": "gir22012020",
-      "Balance": 0.0,
-      "RateOfInterest": null,
-      "IsActive": true,
-      "CreatedOn": "2020-01-24T13:26:51.7045394+05:30",
-      "CreatedBy": "ram22012020",
-      "ModifiedOn": null,
-      "ModifiedBy": null
-    },
-    {
       "ID": "da862e92-91b6-434c-8cf9-875f90a9c4a2",
       "UserID": null,
       "Balance": 0.0,
@@ -268,17 +273,6 @@
       "IsActive": true,
       "CreatedOn": "2020-01-24T13:28:22.2943246+05:30",
       "CreatedBy": "ram22012020",
-      "ModifiedOn": null,
-      "ModifiedBy": null
-    },
-    {
-      "ID": "1034a964-8264-4525-a673-78c7c8f2f417",
-      "UserID": "3b7e174c-11f0-46f3-ba01-8be79cdc4c5e",
-      "Balance": 900.0,
-      "RateOfInterest": null,
-      "IsActive": true,
-      "CreatedOn": "2020-01-27T15:23:09.3427761+05:30",
-      "CreatedBy": "53e98536-7268-48d4-8a1b-0ade32d7b976",
       "ModifiedOn": null,
       "ModifiedBy": null
     },
@@ -316,9 +310,64 @@
       "ModifiedBy": ""
     },
     {
+      "ID": "4b7dad1e-2a66-4fca-8331-b14843c50bef",
+      "UserID": "gir22012020",
+      "Balance": 200.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-24T13:05:05.4673866+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
+      "ID": "c01e532d-884e-4021-94b1-fcdaa2b1aa02",
+      "UserID": "7ad0d74e-4d9a-4a17-a7cd-24cac588f1c4",
+      "Balance": 0.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-30T14:52:00.3637362+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
+      "ID": "1fef93b1-35e1-4ffb-ba17-29734c56d7a2",
+      "UserID": "7ad0d74e-4d9a-4a17-a7cd-24cac588f1c4",
+      "Balance": 0.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-30T14:52:44.7603688+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
+      "ID": "3c3c2472-c4c6-427f-8071-b8eb10e8f81b",
+      "UserID": "6767184f-d3d1-4dc6-b656-f1a3f901c793",
+      "Balance": 0.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-30T15:06:42.1367514+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
+      "ID": "b861bbad-9d6e-46fa-9164-bacf72b4cafd",
+      "UserID": "7b027a99-d624-458f-9996-b40dea9f3597",
+      "Balance": 0.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-30T16:07:24.1543297+05:30",
+      "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
       "ID": "f3454240-d683-476f-abd7-874ed5aa0497",
       "UserID": "gir22012020",
-      "Balance": 4800.0,
+      "Balance": 4600.0,
       "RateOfInterest": null,
       "IsActive": true,
       "CreatedOn": "2020-01-24T13:07:54.5573518+05:30",
@@ -327,13 +376,24 @@
       "ModifiedBy": null
     },
     {
-      "ID": "4b7dad1e-2a66-4fca-8331-b14843c50bef",
+      "ID": "5a601b1d-cf32-4193-a2ba-30de57fd16ce",
       "UserID": "gir22012020",
-      "Balance": 200.0,
+      "Balance": 1560.0,
       "RateOfInterest": null,
       "IsActive": true,
-      "CreatedOn": "2020-01-24T13:05:05.4673866+05:30",
+      "CreatedOn": "2020-01-24T13:26:51.7045394+05:30",
       "CreatedBy": "ram22012020",
+      "ModifiedOn": null,
+      "ModifiedBy": null
+    },
+    {
+      "ID": "1034a964-8264-4525-a673-78c7c8f2f417",
+      "UserID": "3b7e174c-11f0-46f3-ba01-8be79cdc4c5e",
+      "Balance": 1400.0,
+      "RateOfInterest": null,
+      "IsActive": true,
+      "CreatedOn": "2020-01-27T15:23:09.3427761+05:30",
+      "CreatedBy": "53e98536-7268-48d4-8a1b-0ade32d7b976",
       "ModifiedOn": null,
       "ModifiedBy": null
     }
@@ -363,6 +423,12 @@
       "BankID": "Sta22012020",
       "CurrencyName": "yen",
       "Rate": 0.66
+    },
+    {
+      "ID": "865daa2f-833c-4edd-92ff-8900d9899b07",
+      "BankID": "Sta22012020",
+      "CurrencyName": "Australian Dollar",
+      "Rate": 0.02
     }
   ],
   "Transactions": [
@@ -464,17 +530,6 @@
       "ModifiedBy": "ram22012020",
       "CreditedAccount": "71e73283-6396-4c4c-a971-438d77a23afe",
       "DebitedAccount": "ab8cbce3-91a7-42d0-99f4-fd4465c01459"
-    },
-    {
-      "ID": "e3522e1b-bce2-417b-8d78-2fd2be283a32",
-      "Type": 2,
-      "Amount": 700.0,
-      "IsReverted": false,
-      "CreatedOn": "2020-01-24T11:16:38.8146362+05:30",
-      "ModifiedOn": "0001-01-01T00:00:00",
-      "ModifiedBy": null,
-      "CreditedAccount": "71e73283-6396-4c4c-a971-438d77a23afe",
-      "DebitedAccount": "71e73283-6396-4c4c-a971-438d77a23afe"
     },
     {
       "ID": "b96e2c3c-1140-45fe-8f46-74ce3d35db77",
@@ -728,6 +783,50 @@
       "ModifiedBy": null,
       "PayeeID": "4b7dad1e-2a66-4fca-8331-b14843c50bef",
       "PayorID": "f3454240-d683-476f-abd7-874ed5aa0497"
+    },
+    {
+      "ID": "e3522e1b-bce2-417b-8d78-2fd2be283a32",
+      "Type": 2,
+      "Amount": 700.0,
+      "IsReverted": true,
+      "CreatedOn": "2020-01-24T11:16:38.8146362+05:30",
+      "ModifiedOn": "2020-01-30T15:19:02.7919002+05:30",
+      "ModifiedBy": "ram22012020",
+      "PayeeID": null,
+      "PayorID": null
+    },
+    {
+      "ID": "df59f1ad-e42f-41a9-af1f-2d1166bce214",
+      "Type": 0,
+      "Amount": 200.0,
+      "IsReverted": false,
+      "CreatedOn": "2020-01-30T18:30:25.9970023+05:30",
+      "ModifiedOn": "0001-01-01T00:00:00",
+      "ModifiedBy": null,
+      "PayeeID": null,
+      "PayorID": "f3454240-d683-476f-abd7-874ed5aa0497"
+    },
+    {
+      "ID": "52355b85-aec0-446e-bc13-76c41ec7e242",
+      "Type": 1,
+      "Amount": 2060.0,
+      "IsReverted": false,
+      "CreatedOn": "2020-01-30T18:31:03.1463627+05:30",
+      "ModifiedOn": "0001-01-01T00:00:00",
+      "ModifiedBy": null,
+      "PayeeID": "5a601b1d-cf32-4193-a2ba-30de57fd16ce",
+      "PayorID": null
+    },
+    {
+      "ID": "9a3b95a9-a2bf-4960-95b6-214edcb09ba8",
+      "Type": 2,
+      "Amount": 500.0,
+      "IsReverted": false,
+      "CreatedOn": "2020-01-30T18:33:16.7688585+05:30",
+      "ModifiedOn": "0001-01-01T00:00:00",
+      "ModifiedBy": null,
+      "PayeeID": "1034a964-8264-4525-a673-78c7c8f2f417",
+      "PayorID": "5a601b1d-cf32-4193-a2ba-30de57fd16ce"
     }
   ]
 }
